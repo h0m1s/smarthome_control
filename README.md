@@ -1,2 +1,2 @@
 ![Стенд](photos/photoo.jpg)
-![Работа](giff.gif)
+![Работа](photos/giff.gif)
